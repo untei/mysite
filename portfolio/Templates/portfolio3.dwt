@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>Portfolio</title>
+    <!-- TemplateEndEditable -->
+    <!-- Bootstrap -->
+    <link href="../css/bootstrap-4.3.1.css" rel="stylesheet">
+    <link href="../css/common.css" rel="stylesheet">
+	  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.4/css/all.css">
+  <!-- TemplateBeginEditable name="head" -->
+  <!-- TemplateEndEditable -->
+  </head>
+  <body>
+	  <div class="wrapper">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light"> <a class="navbar-brand" href="../job.html">Portfolio</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active"> <a class="nav-link" href="../job.html">Home<span class="sr-only">(current)</span></a> </li>
+      <li class="nav-item">
+        <a class="nav-link" href="dsn1.html">作品1</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="dsn2.html">作品2</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="dsn3.html">作品3</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="dsn4.html">作品4</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="dsn5.html">作品5</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="dsn6.html">作品6</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="dsn7.html">作品7</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="dsn8.html">作品8</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="dsn9.html">作品9</a>
+      </li>		  
+      </ul>
+    </div>
+  </nav>
+  <!-- TemplateBeginEditable name="EditRegion1" -->
+<div class="container">
+	  
+	  </div>
+  <!-- TemplateEndEditable --><!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<div class="push"></div>
+  </div>		  
+	  <footer class="footer bg-light text-center">
+		  <div class="container">
+		  <div class="row">
+			  <div class="col">
+		  Copyright © 2020- masashi umeda All Rights Reserved.				  
+			  </div>
+			  </div>
+		  </div>
+</footer>
+<div id="page_top"><a href="#"></a></div>		  
+	  <script src="../js/jquery-3.3.1.min.js"></script>
+		<script src="../js/common.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed --> 
+    <script src="../js/popper.min.js"></script>
+    <script src="../js/bootstrap-4.3.1.js"></script>
+  </body>
+</html>

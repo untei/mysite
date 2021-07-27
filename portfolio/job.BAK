@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="ja"><!-- InstanceBegin template="/Templates/portfolio2.dwt" codeOutsideHTMLIsLocked="false" -->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- InstanceBeginEditable name="doctitle" -->
+    <title>Portfolio</title>
+    <!-- InstanceEndEditable -->
+    <!-- Bootstrap -->
+    <link href="css/bootstrap-4.3.1.css" rel="stylesheet">
+    <link href="css/common.css" rel="stylesheet">
+	  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.4/css/all.css">
+  <!-- InstanceBeginEditable name="head" -->
+  <!-- InstanceEndEditable -->
+  </head>
+  <body>
+	  <div class="wrapper">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light"> <a class="navbar-brand" href="portfolio.html">Portfolio</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active"> <a class="nav-link" href="top.html">Home <span class="sr-only">(current)</span></a> </li>
+      <li class="nav-item">
+        <a class="nav-link" href="d1.html">作品1</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="d2.html">作品2</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="d3.html">作品3</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="d4.html">作品4</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="d5.html">作品5</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="d6.html">作品6</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="d7.html">作品7</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="d8.html">作品8</a>
+      </li>		  
+      </ul>
+    </div>
+  </nav>
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+<div class="jumbotron jumbotron-fluid text-center bg-light">
+  <h1 class="display-4">Portfolio</h1>
+       <p class="lead">Masashi Umeda</p>
+  </div>
+    <div class="container">
+       <div class="row">
+          <div class="col-md-3">
+			  作品1
+             <div class="card">
+				 <a href="d1.html"><img class="card-img-top img_wrap img-thumbnail" src="images/top_1.jpg" alt="Card image cap"></a>
+                <div class="card-body">
+                  <h5 class="card-title">運営中のページ説明</h5>
+                   <p class="card-text">運営中のwebページの説明</p>
+					<br>
+					<br>
+					<br>
+                   <a href="d1.html" class="btn btn-primary">説明を見る</a>
+                </div>
+             </div>
+          </div>
+          <div class="col-md-3">
+			  作品2
+             <div class="card">
+				 <a href="d2.html"><img class="card-img-top img_wrap img-thumbnail" src="images/top_2.jpg" alt="Card image cap"></a>
+                <div class="card-body">
+                  <h5 class="card-title">業務webページ説明</h5>
+                   <p class="card-text">保管していた唯一の業務webページの説明</p>
+					<br>
+					<br>
+                   <a href="d2.html" class="btn btn-primary">説明を見る</a>
+                </div>
+             </div>
+          </div>
+		   <div class="col-md-3">
+			   作品3
+             <div class="card">
+				 <a href="d3.html"><img class="card-img-top img_wrap img-thumbnail" src="images/top_3.jpg" alt="Card image cap"></a>
+                <div class="card-body">
+                  <h5 class="card-title">過去に作成したwebページの説明1</h5>
+                   <p class="card-text">過去に依頼されて作成したwebページ説明</p>
+
+					<br>
+                   <a href="d3.html" class="btn btn-primary">説明を見る</a>					
+                </div>
+             </div>
+          </div>
+		   <div class="col-md-3">
+			   作品4
+             <div class="card">
+				 <a href="d4.html"><img class="card-img-top img_wrap img-thumbnail" src="images/top_4.jpg" alt="Card image cap"></a>
+                <div class="card-body">
+                  <h5 class="card-title">過去に作成したwebページの説明2</h5>
+                   <p class="card-text">過去に依頼されて作成したwebページ説明</p>
+					<br>
+                   <a href="d4.html" class="btn btn-primary">説明を見る</a>					
+                </div>
+             </div>
+          </div>
+		   
+       </div>
+		
+		<br>
+       <div class="row fade_off" id="sample">
+		   <div class="col-md-3">
+			   作品5
+             <div class="card">
+				 <a href="d5.html"><img class="card-img-top img_wrap img-thumbnail" src="images/top_5.jpg" alt="Card image cap"></a>
+                <div class="card-body">
+                  <h5 class="card-title">趣味のサイト1</h5>
+                   <p class="card-text">趣味のサイト説明</p>
+					<br>
+					<br>
+					<br>
+					<br>					
+                   <a href="d5.html" class="btn btn-primary">説明を見る</a>					
+                </div>
+             </div>
+          </div>
+		   
+          <div class="col-md-3">
+				 作品6			  
+             <div class="card">
+				 <a href="d6.html"><img class="card-img-top img_wrap img-thumbnail" src="images/top_6.jpg" alt="Card image cap"></a>
+                <div class="card-body">
+                  <h5 class="card-title">趣味のサイト2</h5>
+                   <p class="card-text">趣味のサイト説明</p>
+					<br>
+					<br>					
+					<br>
+					<br>
+                   <a href="d6.html" class="btn btn-primary">説明を見る</a>
+                </div>
+             </div>
+          </div>
+		   <div class="col-md-3">
+			   作品7
+             <div class="card">
+				 <a href="d7.html"><img class="card-img-top img_wrap img-thumbnail" src="images/top_7.jpg" alt="Card image cap"></a>
+                <div class="card-body">
+                  <h5 class="card-title">架空のサイト</h5>
+                   <p class="card-text">架空のサイトデザイン説明</p>
+					<br>
+					<br>					
+					<br>
+					<br>
+                   <a href="d7.html" class="btn btn-primary">説明を見る</a>					
+                </div>
+             </div>
+          </div>
+		   <div class="col-md-3">
+			   作品8
+             <div class="card">
+				 <a href="d8.html"><img class="card-img-top img_wrap img-thumbnail" src="images/top_8.jpg" alt="Card image cap"></a>
+                <div class="card-body">
+                  <h5 class="card-title">業務のパッケージデザイン説明</h5>
+                   <p class="card-text">保管していた唯一の業務のパッケージデザイン説明</p>
+					<br>
+					<br>					
+                   <a href="d8.html" class="btn btn-primary">説明を見る</a>					
+                </div>
+             </div>
+          </div>
+		   
+       </div>
+
+	  <br>
+
+
+
+    </div>
+	  
+  <!-- InstanceEndEditable --><!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<div class="push"></div>
+  </div>		  
+	  <footer class="footer bg-light text-center">
+		  <div class="container">
+		  <div class="row">
+			  <div class="col">
+		  Copyright © 2020- masashi umeda All Rights Reserved.				  
+			  </div>
+			  </div>
+		  </div>
+</footer>
+<div id="page_top"><a href="#"></a></div>		  
+	  <script src="js/jquery-3.3.1.min.js"></script>
+		<script src="js/common.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed --> 
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap-4.3.1.js"></script>
+  </body>
+<!-- InstanceEnd --></html>

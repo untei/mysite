@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="ja"><!-- InstanceBegin template="/Templates/portfolio3.dwt" codeOutsideHTMLIsLocked="false" -->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- InstanceBeginEditable name="doctitle" -->
+    <title>Portfolio 業務webページ説明</title>
+    <!-- InstanceEndEditable -->
+    <!-- Bootstrap -->
+    <link href="css/bootstrap-4.3.1.css" rel="stylesheet">
+    <link href="css/common.css" rel="stylesheet">
+	  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.4/css/all.css">
+  <!-- InstanceBeginEditable name="head" -->
+  <!-- InstanceEndEditable -->
+  </head>
+  <body>
+	  <div class="wrapper">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light"> <a class="navbar-brand" href="job.html">Portfolio</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active"> <a class="nav-link" href="job.html">Home<span class="sr-only">(current)</span></a> </li>
+      <li class="nav-item">
+        <a class="nav-link" href="dsn1.html">作品1</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="dsn2.html">作品2</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="dsn3.html">作品3</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="dsn4.html">作品4</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="dsn5.html">作品5</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="dsn6.html">作品6</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="dsn7.html">作品7</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="dsn8.html">作品8</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="dsn9.html">作品9</a>
+      </li>		  
+      </ul>
+    </div>
+  </nav>
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+<br>
+		  <div class="container">
+		  <div class="row">
+			  <div class="col">
+				作品2			  
+			  </div>
+			  </div>
+		  </div>
+
+<div class="container border">
+	  <div class="row">
+		<div class="col-lg-6">
+		  <div class="row">
+			<div class="col border-bottom">
+			  作品名：過去に作成した業務webページの説明 ネスカフェ 2002年作成
+		    </div>
+		  </div>
+		  <div class="row">
+			<div class="col border-bottom">
+			  担当：制作
+		    </div>
+		  </div>
+		  <div class="row">
+			<div class="col border-bottom">
+			  ツール：adobe:dreamweaver　Macromedia:fireworks<br>開発：html css javascript cgi
+		    </div>
+		  </div>			
+		  <div class="row">
+			<div class="col">
+			  広告代理店でwebの仕事を担当していた時に、業務で作成したものが唯一、残っていたもの。デザイナーから渡されたものをコーディング。応募フォームにcgiを使用しています。この時代は紙媒体のデザイナーがwebデザインを担当していたため、今だったら背景はテキスタイルで埋め込みをするが、この当時はテキストも含めてベタであった。そのため、一枚画像、そのままでイメージマップの使用が多かったものです。
+		    </div>
+		  </div>
+			<br>
+		<div class="row">
+			<div class="col">
+<a href="images/nescafe-1.pdf#zoom=80" target="_blank"><img src="images/s_nescafe1-1.jpg" alt="業務webページ ネスカフェ" class="card img-thumbnail img_wrap" title="ネスカフェ"></a>				
+            </div>
+		  </div>
+			
+			<div class="row">
+			<div class="col text-center">
+				<form>
+				<button type="button" class="btn-primary">画像をクリックしてください。<br>別ページで開きます。</button></form>
+					</div>
+			</div>			
+	    </div>
+		<div class="col-lg-6"> <a href="images/nescafe-1.pdf#zoom=80" target="_blank"><img src="images/s_nescafe1.jpg" alt="業務webページ ネスカフェ" class="card img-thumbnail img_wrap" title="ネスカフェ"></a>
+			<figure>
+			<figcaption align="center">
+				※pdfにて別ページで開きます。
+			  </figcaption>
+		  </figure>
+	    </div>		  
+	</div>
+	  </div>
+  <!-- InstanceEndEditable --><!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<div class="push"></div>
+  </div>		  
+	  <footer class="footer bg-light text-center">
+		  <div class="container">
+		  <div class="row">
+			  <div class="col">
+		  Copyright © 2020- masashi umeda All Rights Reserved.				  
+			  </div>
+			  </div>
+		  </div>
+</footer>
+<div id="page_top"><a href="#"></a></div>		  
+	  <script src="js/jquery-3.3.1.min.js"></script>
+		<script src="js/common.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed --> 
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap-4.3.1.js"></script>
+  </body>
+<!-- InstanceEnd --></html>
